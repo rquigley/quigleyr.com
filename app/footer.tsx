@@ -6,7 +6,7 @@ export function Footer() {
       <div className="grow text-left">
         Ryan Quigley (<A href="https://twitter.com/ryanquigley">twitter</A>,{" "}
         <A href="https://www.linkedin.com/in/drquigley/">linkedin</A>,{" "}
-        <A href="https://twitter.com/ryanquigley">instagram</A>)
+        <A href="https://instagram.com/rquigley">instagram</A>)
       </div>
       <div>
         <A href="https://github.com/rquigley/quigleyr.com">Source</A>
