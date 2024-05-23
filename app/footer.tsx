@@ -9,7 +9,7 @@ export function Footer() {
         <A href="https://instagram.com/rquigley">instagram</A>)
       </div>
       <div>
-        <A href="https://github.com/rquigley/quigleyr.com">Source</A>
+        {/* <A href="https://github.com/rquigley/quigleyr.com">Source</A> */}
       </div>
     </footer>
   );
