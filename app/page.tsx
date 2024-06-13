@@ -1,5 +1,6 @@
 import { Playfair_Display } from "next/font/google";
-import { Posts } from "./posts";
+
+// import { Posts } from "./posts";
 
 const playfair = Playfair_Display({ subsets: ["latin"], weight: "400" });
 
