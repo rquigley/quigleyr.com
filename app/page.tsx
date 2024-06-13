@@ -1,6 +1,5 @@
 import { Playfair_Display } from "next/font/google";
-
-// import { Posts } from "./posts";
+import { Posts } from "./posts";
 
 const playfair = Playfair_Display({ subsets: ["latin"], weight: "400" });
 
@@ -10,7 +9,7 @@ export default function Home() {
       <p
         className={`pt-48 text-xl leading-snug md:text-4xl md:leading-relaxed ${playfair.className}`}
       >
-        I&rsquo;m Ryan, a software engineer and entrepreneur.
+        I&rsquo;m Ryan, an engineering leader and entrepreneur.
       </p>
       <p className="mt-8">
         Over the past two decades I&rsquo;ve helped build and scale four
